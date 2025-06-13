@@ -17,8 +17,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Worklytics Status
-  introTitle: "**Worklytics Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status, powered by [GitHub repository](https://github.com/upptime/upptime), to monitor Worklytics Availability.
+  introTitle: "This page monitors the status of the **Worklytics** web portal. "
+  introMessage: Use this page to see information about downtime in the portal and any incidents affectively availability of the portal or our platform.
   navbar:
     - title: Status
       href: /
