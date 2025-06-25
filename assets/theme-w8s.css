@@ -23,8 +23,14 @@
   --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
+
+  /* custom vars (not part of uptime theme definitions) */
+  --nav-text-color: #fff;
 }
 
-nav > a {
-  color: var(--tag-color);
+nav {
+  color: var(--nav-text-color);
+}
+nav a > div {
+  display: none; /* hide website name; our logo should be enough */
 }
