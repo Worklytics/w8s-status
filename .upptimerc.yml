@@ -20,8 +20,7 @@ status-website:
   themeUrl: https://www.worklytics-status.com/theme-w8s.css
   favicon: https://www.worklytics-status.com/favicon-w8s.png
   faviconSvg: https://www.worklytics-status.com/favicon-w8s.svg
-  # removing name property, hoping w8s logo acts as main item in the header
-  # name: Worklytics Status
+  name:  # whitespace, hoping w8s logo acts as main item in the header
   introTitle: "This page monitors the status of the **Worklytics** web portal."
   introMessage: Use this page to see information about downtime in the portal and any incidents affectively availability of the portal or our platform.
   navbar:
