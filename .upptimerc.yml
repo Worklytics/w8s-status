@@ -32,6 +32,6 @@ status-website:
     #  href: https://github.com/$OWNER/$REPO
 # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
 i18n:
-  footer: © <script type="text/javascript">document.write(new Date().getUTCFullYear());</script> Worklytics Co.
+  footer: © Worklytics Co.&nbsp;&nbsp;&nbsp;&nbsp;[Privacy Policy](https://www.worklytics.co/privacy-policy)&nbsp;&nbsp;&nbsp;&nbsp;[Terms of Service](https://www.worklytics.co/terms-of-service)&nbsp;&nbsp;&nbsp;&nbsp;[Blog](https://worklytics.co/blog)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configurationÏ
