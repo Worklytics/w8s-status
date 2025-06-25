@@ -22,7 +22,7 @@ status-website:
   faviconSvg: https://www.worklytics-status.com/favicon-w8s.svg
   # removing name property, hoping w8s logo acts as main item in the header
   # name: Worklytics Status
-  introTitle: "This page monitors the status of the **Worklytics** web portal. "
+  introTitle: "This page monitors the status of the **Worklytics** web portal."
   introMessage: Use this page to see information about downtime in the portal and any incidents affectively availability of the portal or our platform.
   navbar:
     - title: Status
@@ -31,8 +31,8 @@ status-website:
       href: https://worklytics.co/support
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
-  # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
-  i18n:
-    footer: © <script type="text/javascript">document.write(new Date().getUTCFullYear());</script> Worklytics Co.
+# https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
+i18n:
+  footer: © <script type="text/javascript">document.write(new Date().getUTCFullYear());</script> Worklytics Co.
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configurationÏ
