@@ -1,6 +1,6 @@
 # [📈 Live Status](https://www.worklytics-status.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Worklytics](https://www.worklytics.co), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains uptime monitoring and status page for [Worklytics](https://www.worklytics.co), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/worklytics/w8s-status/workflows/Uptime%20CI/badge.svg)](https://github.com/worklytics/w8s-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/worklytics/w8s-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/worklytics/w8s-status/actions?query=workflow%3A%22Response+Time+CI%22)
