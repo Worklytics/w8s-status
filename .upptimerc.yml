@@ -21,8 +21,8 @@ status-website:
   favicon: https://www.worklytics-status.com/favicon-w8s.png
   faviconSvg: https://www.worklytics-status.com/favicon-w8s.svg
   name: Status
-  introTitle: "This page monitors the status of the **Worklytics** web portal."
-  introMessage: Use this page to see information about downtime in the portal and any incidents affectively availability of the portal or our platform.
+  introTitle: "Status of the **Worklytics** web portal and data processing platform."
+  introMessage: This page logs downtimes, maintenance of the services offered by Worklytics, including our [web portal](https://app.worklytics.co) and data processing platform.
   navbar:
     - title: Status
       href: /
