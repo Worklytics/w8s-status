@@ -22,7 +22,7 @@
     "url": "https://app.worklytics.co",
     "icon": "https://app.worklytics.co/icons/favicon.ico",
     "slug": "data-processing-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 785,
     "timeMonth": 643,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   }
 ]
