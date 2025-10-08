@@ -4,19 +4,19 @@
     "url": "https://app.worklytics.co",
     "icon": "https://app.worklytics.co/icons/favicon.ico",
     "slug": "worklytics-web-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 2717,
-    "timeWeek": 1417,
-    "timeMonth": 804,
-    "timeYear": 745,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 751,
+    "timeDay": 2348,
+    "timeWeek": 1399,
+    "timeMonth": 817,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-10-08": 1
+      "2025-10-08": 9
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://app.worklytics.co/icons/favicon.ico",
     "slug": "data-processing-platform",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "94.46%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.92%",
     "time": 887,
     "timeDay": 15062,
     "timeWeek": 4168,
     "timeMonth": 1384,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-10-08": 80
+      "2025-10-08": 89
     }
   }
 ]
