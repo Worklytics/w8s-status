@@ -5,16 +5,16 @@
     "icon": "https://app.worklytics.co/icons/favicon.ico",
     "slug": "worklytics-web-portal",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
-    "time": 714,
-    "timeDay": 547,
-    "timeWeek": 622,
+    "uptimeYear": "99.39%",
+    "time": 713,
+    "timeDay": 578,
+    "timeWeek": 612,
     "timeMonth": 641,
-    "timeYear": 714,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2025-10-09": 925,
       "2025-10-08": 127
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 390,
-    "timeWeek": 358,
+    "time": 741,
+    "timeDay": 423,
+    "timeWeek": 382,
     "timeMonth": 484,
-    "timeYear": 744,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   }
 ]
